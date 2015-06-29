@@ -1,0 +1,28 @@
+C:\Users\Petter\Documents\Visual Studio 2012\Projects\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Content\img\glyphicons-halflings-white.png
+C:\Users\Petter\Documents\Visual Studio 2012\Projects\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Content\img\glyphicons-halflings.png
+C:\Users\Petter\Documents\Visual Studio 2012\Projects\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Content\nancy-vertical-bf-tb.png
+C:\Users\Petter\Documents\Visual Studio 2012\Projects\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Views\index.html
+C:\Users\Petter\Documents\Visual Studio 2012\Projects\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Views\layout.html
+C:\Users\Petter\Documents\Visual Studio 2012\Projects\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Nancy.DemoApplication1.dll
+C:\Users\Petter\Documents\Visual Studio 2012\Projects\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Nancy.DemoApplication1.pdb
+C:\Users\Petter\Documents\Visual Studio 2012\Projects\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Nancy.dll
+C:\Users\Petter\Documents\Visual Studio 2012\Projects\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Nancy.Hosting.Aspnet.dll
+C:\Users\Petter\Documents\Visual Studio 2012\Projects\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Nancy.xml
+C:\Users\Petter\Documents\Visual Studio 2012\Projects\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Nancy.Hosting.Aspnet.xml
+C:\Users\Petter\Documents\Visual Studio 2012\Projects\Nancy.DemoApplication1\Nancy.DemoApplication1\obj\Debug\Nancy.DemoApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Petter\Documents\Visual Studio 2012\Projects\Nancy.DemoApplication1\Nancy.DemoApplication1\obj\Debug\Nancy.DemoApplication1.dll
+C:\Users\Petter\Documents\Visual Studio 2012\Projects\Nancy.DemoApplication1\Nancy.DemoApplication1\obj\Debug\Nancy.DemoApplication1.pdb
+C:\git\misc\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Content\img\glyphicons-halflings-white.png
+C:\git\misc\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Content\img\glyphicons-halflings.png
+C:\git\misc\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Content\nancy-vertical-bf-tb.png
+C:\git\misc\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Views\index.html
+C:\git\misc\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Views\layout.html
+C:\git\misc\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Nancy.DemoApplication1.dll
+C:\git\misc\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Nancy.DemoApplication1.pdb
+C:\git\misc\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Nancy.dll
+C:\git\misc\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Nancy.Hosting.Aspnet.dll
+C:\git\misc\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Nancy.xml
+C:\git\misc\Nancy.DemoApplication1\Nancy.DemoApplication1\bin\Nancy.Hosting.Aspnet.xml
+C:\git\misc\Nancy.DemoApplication1\Nancy.DemoApplication1\obj\Debug\Nancy.DemoApplication1.csprojResolveAssemblyReference.cache
+C:\git\misc\Nancy.DemoApplication1\Nancy.DemoApplication1\obj\Debug\Nancy.DemoApplication1.dll
+C:\git\misc\Nancy.DemoApplication1\Nancy.DemoApplication1\obj\Debug\Nancy.DemoApplication1.pdb
