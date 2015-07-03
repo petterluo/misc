@@ -7,10 +7,10 @@ jQuery(function($) {
 
         //click event handler
         //this.onClick = function () {
-        this.doTalking = function() {
+        this.doTalking = function(event, data) {
             //alert('you just clicked the h1');
             //console.log('aaa');
-            this.trigger('talk');
+            this.trigger(document, 'talk');
         };
 
         //initialize
@@ -25,20 +25,26 @@ jQuery(function($) {
 
     var listen = flight.component(function () {
 
+        this.attributes({
+            text: null
+        });
+
         this.doListening = function () {
             console.log('I was listening');
-            $('h2').html('new text');
+            this.$node.html(this.attr.text);
         }
 
         //initialize
         this.after('initialize', function () {
-            this.on('talk', this.doListening);
+            this.on(document, 'talk', this.doListening);
         });
 
     });
 
     
     talk.attachTo('h1');
-    listen.attachTo('h1');
+    listen.attachTo('h2', {
+        text: "hej"
+    });
 
 });
