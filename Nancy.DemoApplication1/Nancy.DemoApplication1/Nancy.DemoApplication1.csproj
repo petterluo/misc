@@ -54,11 +54,22 @@
     <Reference Include="System.Configuration" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\flight\lib\es5-sham.min.js" />
-    <Content Include="Content\flight\lib\es5-shim.min.js" />
-    <Content Include="Content\flight\lib\flight.js" />
-    <Content Include="Content\flight\lib\jquery.min.js" />
-    <Content Include="Content\flight\main.js" />
+    <Content Include="Content\scripts\js\flight-listen.js" />
+    <Content Include="Content\scripts\js\flight-talk.js" />
+    <Content Include="Content\scripts\vendor\flight\index.js" />
+    <Content Include="Content\scripts\vendor\flight\lib\advice.js" />
+    <Content Include="Content\scripts\vendor\flight\lib\base.js" />
+    <Content Include="Content\scripts\vendor\flight\lib\component.js" />
+    <Content Include="Content\scripts\vendor\flight\lib\compose.js" />
+    <Content Include="Content\scripts\vendor\flight\lib\debug.js" />
+    <Content Include="Content\scripts\vendor\flight\lib\logger.js" />
+    <Content Include="Content\scripts\vendor\flight\lib\registry.js" />
+    <Content Include="Content\scripts\vendor\flight\lib\utils.js" />
+    <Content Include="Content\scripts\vendor\flight\lib_OLD\es5-sham.min.js" />
+    <Content Include="Content\scripts\vendor\flight\lib_OLD\es5-shim.min.js" />
+    <Content Include="Content\scripts\vendor\flight\lib_OLD\flight.js" />
+    <Content Include="Content\scripts\vendor\flight\lib_OLD\jquery.min.js" />
+    <Content Include="Content\scripts\vendor\flight\lib_OLD\main_EX.js" />
     <Content Include="Content\foundation\css\foundation.css" />
     <Content Include="Content\foundation\css\foundation.min.css" />
     <Content Include="Content\foundation\css\normalize.css" />
@@ -94,10 +105,14 @@
     <Content Include="Content\img\glyphicons-halflings.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Content\scripts\js\module4.js" />
+    <Content Include="Content\scripts\vendor\jquery\jquery.min.js" />
     <Content Include="Content\nancy-vertical-bf-tb.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Content\flight\helloWorld.js" />
+    <Content Include="Content\scripts\js\helloWorld.js" />
+    <Content Include="Content\scripts\vendor\require\require.js" />
+    <Content Include="Content\scripts\main.js" />
     <Content Include="Views\flight.html" />
     <Content Include="Views\index.html">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -127,7 +142,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Start\" />
-    <Folder Include="Content\scripts\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
