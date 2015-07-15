@@ -1,0 +1,13 @@
+
+This is a basic flight example.
+
+
+Short explanation:
+
+- click on h1 element
+  - triggers event "eventH1Click"
+  - sends message "message sent at click on h1"
+
+- h2 element listens to event "eventH1Click"
+  - when event fires h2 displays message sent from the h1 click event
+

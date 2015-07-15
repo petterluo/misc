@@ -1,0 +1,3 @@
+
+The "vendor" folder contains external tools needed to run flight.
+

@@ -1,0 +1,12 @@
+
+This is a basic flight example.
+
+
+To run the code:
+
+- Open folder "talkAndListen" 
+- Drag "index.html" into a browser window
+
+
+No special tools required.
+

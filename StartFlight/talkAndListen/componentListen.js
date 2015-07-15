@@ -4,10 +4,10 @@ define(
     [
         'flight/lib/component'
     ],
-
-    function (defineComponent) {
-
-        return defineComponent(listen);
+    function (
+        flightComponent
+        )
+    {
 
         function listen() {
             this.after('initialize', function () {
@@ -18,5 +18,7 @@ define(
                 });
             });
         }
+
+        return flightComponent(listen);
     }
 );
