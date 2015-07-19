@@ -65,11 +65,11 @@
     <Content Include="Content\scripts\vendor\flight\lib\logger.js" />
     <Content Include="Content\scripts\vendor\flight\lib\registry.js" />
     <Content Include="Content\scripts\vendor\flight\lib\utils.js" />
-    <Content Include="Content\scripts\vendor\flight\lib_OLD\es5-sham.min.js" />
-    <Content Include="Content\scripts\vendor\flight\lib_OLD\es5-shim.min.js" />
-    <Content Include="Content\scripts\vendor\flight\lib_OLD\flight.js" />
-    <Content Include="Content\scripts\vendor\flight\lib_OLD\jquery.min.js" />
-    <Content Include="Content\scripts\vendor\flight\lib_OLD\main_EX.js" />
+    <Content Include="Content\scripts\vendor\flight\lib_v1_OLD\es5-sham.min.js" />
+    <Content Include="Content\scripts\vendor\flight\lib_v1_OLD\es5-shim.min.js" />
+    <Content Include="Content\scripts\vendor\flight\lib_v1_OLD\flight.js" />
+    <Content Include="Content\scripts\vendor\flight\lib_v1_OLD\jquery.min.js" />
+    <Content Include="Content\scripts\vendor\flight\lib_v1_OLD\main_EX.js" />
     <Content Include="Content\foundation\css\foundation.css" />
     <Content Include="Content\foundation\css\foundation.min.css" />
     <Content Include="Content\foundation\css\normalize.css" />
